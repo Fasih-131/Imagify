@@ -1,9 +1,11 @@
-import React from 'react'
+import React from 'react';
 
 const Result = () => {
   return (
-    <div>Result Page</div>
-  )
-}
+    <div>
+      Result Page
+    </div>
+  );
+};
 
-export default Result
+export default Result;
